@@ -50,3 +50,12 @@ pip install pandas numpy scikit-learn streamlit
 ```bash
 streamlit run app.py
 ```
+---
+
+
+### Output
+
+- Loan approval prediction (Approved / Rejected)  
+- Probability score of approval  
+- Key factors influencing the decision  
+- Top features used by the model  
