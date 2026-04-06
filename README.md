@@ -43,8 +43,9 @@ cd loan-approval-prediction
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn streamlit
 ```
+
 3. Run the application:
 ```bash
 streamlit run app.py
